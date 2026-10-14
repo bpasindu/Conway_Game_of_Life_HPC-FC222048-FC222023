@@ -1,0 +1,26 @@
+# Build artifacts and binaries
+build/
+*.exe
+*.out
+*.obj
+*.o
+*.dll
+*.so
+*.a
+*.lib
+*.pdb
+*.ilk
+*.log
+
+# Temporary editor files
+.vscode/
+*.swp
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Local benchmark caches
+results/*.tmp
+results/*.bak
